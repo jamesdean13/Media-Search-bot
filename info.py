@@ -26,8 +26,14 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
+**Hi, I'm Taylor Swift Search bot**
 
+Created By @James_Dean_13
+
+Contact Us - @SwiftiesWorldBot
+Group - @SwiftiesWorld
+Discography - @TaylorFLAC
+Channel - @Taylorswift13fanpage
 Here you can search files in inline mode. Just press following buttons and start searching.
 """
 
