@@ -37,4 +37,4 @@ Channel - @Taylorswift13fanpage
 Here you can search files in inline mode. Just press following buttons and start searching.
 """
 
-SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
+SHARE_BUTTON_TEXT = 'Checkout {username} for Taylor swift stuff'
